@@ -1,7 +1,9 @@
 export interface Friend {
     name: string;
     phone: string;
+    dob? : Date;
     age: number
+    interests? : string[]
 }
 
 export interface Colleague {
