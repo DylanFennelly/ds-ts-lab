@@ -14,6 +14,7 @@ const friend1 : Friend = {
     interests: ['Music', 'Sport']
   };
   
+  
 export const friends = [friend1, friend2];
   //console.log(friends[1]);
   
